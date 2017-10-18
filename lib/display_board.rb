@@ -11,4 +11,3 @@ def display_board(board)
 end
 
 print display_board(board)
-  
